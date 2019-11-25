@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-22T08:46:21.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bZONFeNstpjyy6A5GIRI" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-25T01:15:24.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="smUDSboUe7qEH7Ti7Z5l" version="12.2.9" type="github" pages="1">
   <diagram id="rEG6L9bn5VI_HUOqqRBz" name="第 1 页">
     <mxGraphModel dx="1012" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
           <mxGeometry x="2065" y="-230" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5T5n9B4mbpvcat68feUI-166" value="采购" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="105" width="30" height="60" as="geometry"/>
+          <mxGeometry x="2570" y="125" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5T5n9B4mbpvcat68feUI-172" value="获取客户付款类型判断是否账期客户" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1370" y="-30" width="110" height="95" as="geometry"/>
