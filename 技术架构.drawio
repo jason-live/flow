@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T05:14:26.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="U2wqjHWYVcYSHA3n5coS" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T05:25:00.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="-ivCl96nlkYdcrH-0dPu" version="12.2.9" type="github" pages="2">
   <diagram id="rEG6L9bn5VI_HUOqqRBz" name="第 1 页">
     <mxGraphModel dx="1839" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           <mxGeometry y="78" width="210" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="ohqrkM3Zv9pEc4yeOFdJ-138" value="商品快照 - cms_snapshot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="184" width="210" height="104" as="geometry"/>
+          <mxGeometry x="620" y="180" width="210" height="104" as="geometry"/>
         </mxCell>
         <mxCell id="ohqrkM3Zv9pEc4yeOFdJ-139" value="Row 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ohqrkM3Zv9pEc4yeOFdJ-138">
           <mxGeometry y="26" width="210" height="26" as="geometry"/>
@@ -390,6 +390,35 @@
         </mxCell>
         <mxCell id="ohqrkM3Zv9pEc4yeOFdJ-194" value="Row 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ohqrkM3Zv9pEc4yeOFdJ-191">
           <mxGeometry y="78" width="160" height="26" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O37l_oZdAoH2MmVQAOaC" name="第 2 页">
+    <mxGraphModel dx="1012" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-0"/>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-1" parent="4KHeaphZmsgXlzKaCyLP-0"/>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-2" value="销售下单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="30" y="630" width="90" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-12" value="库存：有" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="200" y="440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-13" value="库存：无" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="200" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-14" value="付款：账期" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="200" y="720" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-15" value="付款：现金全额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="200" y="810" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-16" value="付款：现金定金" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="200" y="900" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4KHeaphZmsgXlzKaCyLP-17" value="库存 = 真实库存 + 虚拟库存 + 在途库存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4KHeaphZmsgXlzKaCyLP-1">
+          <mxGeometry x="180" y="310" width="250" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
